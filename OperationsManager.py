@@ -15,7 +15,6 @@ class OperationsManager:
             '6) Return book',
             '7) Print users borrowed book',
             '8) Print users'
-            '9) print user full name'
         ]
         print('\n'.join(options))
         return self.get_choice(len(options))
