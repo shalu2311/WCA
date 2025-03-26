@@ -4,4 +4,4 @@ class User:
         self.name = name
 
 
-print("Hello, World!")
+print("Techzone")
